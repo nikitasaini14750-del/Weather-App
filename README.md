@@ -64,11 +64,11 @@ Example:
 
 **Home Page**
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/ca00a789-cd17-4d31-bd3d-f803569688b8" />
+<img width="350" height="270" alt="image" src="https://github.com/user-attachments/assets/ca00a789-cd17-4d31-bd3d-f803569688b8" />
 
 **Result Page**
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/28ecf97a-78f1-4f8e-aa79-f453e99265d0" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/28ecf97a-78f1-4f8e-aa79-f453e99265d0" />
 
 
 
